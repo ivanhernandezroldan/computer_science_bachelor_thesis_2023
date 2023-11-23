@@ -1,5 +1,5 @@
 # computer-science-final-degree-project-2023
-## Source code of my Computer Science Bachelor's Thesis. This project develops a study of the contextual multi-armed bandits, a type of problem in the scope of reinforcement learning. 
+Source code of my Computer Science Bachelor's Thesis. This project develops a study of the contextual multi-armed bandits, a type of problem in the scope of reinforcement learning. 
 
 This repository includes the implementation of some practical applications of the contextual multi-armed bandits' algorithms (each of them are referenced in the same order as they appear in the main body of the thesis):
 
